@@ -6,3 +6,7 @@ feature 1 commit 2
 feature 2 commit 1
 feature 2 commit 2
 feature 2 commit 3
+release 0.0.1 commit 1
+release 0.0.1 commit 2
+release 0.0.1 commit 3
+release 0.0.1 commit 4
